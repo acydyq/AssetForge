@@ -1,0 +1,23 @@
+# Keywords mapped to colors, patterns, and resolution
+server room=gray,silver,black; grid; high
+cloud computing=blue,white,cyan; waves; high
+programmer=black,green,blue; matrix; medium
+investor=gold,silver; gradient; high
+venture capital=gold,green; stripes; high
+startup office=white,gray,blue; grid; high
+hacker=black,green,red; matrix; high
+pitch deck=blue,gray,silver; grid; medium
+corporate=gray,black,blue; structured; high
+open office=white,blue,light gray; open; medium
+network security=red,black,green; chaotic; high
+tech bubble=blue,green,red; rounded; medium
+boardroom=black,gray,gold; lines; high
+coffee shop=brown,beige,black; mosaic; medium
+tech conference=blue,purple,cyan; dots; high
+coding bootcamp=black,blue,white; structured; medium
+early-stage startup=cyan,white,gray; grid; high
+Silicon Valley=gold,blue,gray; stylish; high
+seed funding=green,gold; gradient; medium
+startup failure=red,gray,black; chaotic; medium
+big data=blue,white,black; pattern; high
+artificial intelligence=cyan,purple,black; futuristic; high
